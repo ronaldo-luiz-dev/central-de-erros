@@ -1,4 +1,5 @@
 ## ★ Central de Erros
+Sistema de filtros e busca de dados, que simula uma central de erros, onde é possível o usuário localizar estes dados de forma avançada, excluir ou arquivar.
 Codenation -> Kroton
 
 ## ⊕ About this project
